@@ -1,0 +1,10 @@
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\obj\Debug\ConsoleOktaClient.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\bin\Debug\ConsoleOktaClient.exe.config
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\bin\Debug\ConsoleOktaClient.exe
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\bin\Debug\ConsoleOktaClient.pdb
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\obj\Debug\ConsoleOktaClient.exe
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\obj\Debug\ConsoleOktaClient.pdb
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\obj\Debug\ConsoleOktaClient.csprojAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\bin\Debug\SimpleServiceLib.dll
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\bin\Debug\SimpleServiceLib.pdb
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\ConsoleOktaClient\obj\Debug\ConsoleOktaClient.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\bin\Debug\SimpleServiceLib.dll
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\bin\Debug\SimpleServiceLib.pdb
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\obj\Debug\SimpleServiceLib.csprojAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\obj\Debug\SimpleServiceLib.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\obj\Debug\SimpleServiceLib.dll
+D:\AspNetCore_VisualStudio2017\ConsoleOktaClient\SimpleServiceLib\obj\Debug\SimpleServiceLib.pdb
